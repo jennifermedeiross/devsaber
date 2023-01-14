@@ -18,6 +18,11 @@
     margin-bottom: 1.5rem;
 }
 
+.paragrafo a {
+    color: var(--verde-medio);
+    text-decoration: underline;
+}
+
 @media (max-width: 1100px) {
     .fotoSobreMim {
         float: none;

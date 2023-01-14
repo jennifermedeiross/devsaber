@@ -41,6 +41,9 @@ export default function SobreMim() {
             <p className={styles.paragrafo}>
                 Então, obrigada por estar aqui e vamos juntos em busca da evolução!
             </p>
+            <p className={styles.paragrafo}>
+                <hr/>Todos os conteúdos apresentados foram retirados do curso <br/> "React: desenvolvendo em React Router com JavaScript" da <a href="https://alura.com.br">Alura</a>.<hr/>
+            </p>
         </PostModelo>
     )
 }
