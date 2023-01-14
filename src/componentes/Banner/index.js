@@ -9,7 +9,7 @@ export default function Banner() {
                 <h1 className={styles.titulo}>
                     DevSaber
                 </h1>
-                <p>
+                <p className={styles.paragrafo}>
                     Olá! Eu sou Jennifer Medeiros, graduanda em Engenharia de Computação, e aqui compartilho vários conhecimentos que acredito serem úteis :)
                 </p>
             </div>
