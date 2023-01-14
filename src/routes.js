@@ -1,4 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Banner from './componentes/Banner';
 import Menu from './componentes/Menu';
 import Inicio from './paginas/Inicio';
 import SobreMim from './paginas/SobreMim';
